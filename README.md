@@ -3,6 +3,9 @@
 Welcome to the **John Watson UI Portfolio** project!  
 This is a clean and modern portfolio template designed using **HTML5**, **Bootstrap 5**, **FontAwesome**, and **CSS3**.
 
+## Live Preview
+https://iamjefwa.github.io/UI-Portfolio-John-Watson/
+
 ## Project Overview
 
 The portfolio showcases **John Watson**, a professional **UI Designer** and **Web Developer** from the UK.  
@@ -63,5 +66,3 @@ It highlights skills, services, and experience in a responsive and user-friendly
 This project is open-source and free for personal portfolio use.  
 Feel free to customize it to fit your needs.
 
-## Live Preview
-https://iamjefwa.github.io/UI-Portfolio-John-Watson/

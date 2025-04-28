@@ -62,3 +62,6 @@ It highlights skills, services, and experience in a responsive and user-friendly
 
 This project is open-source and free for personal portfolio use.  
 Feel free to customize it to fit your needs.
+
+## Live Preview
+https://iamjefwa.github.io/UI-Portfolio-John-Watson/
